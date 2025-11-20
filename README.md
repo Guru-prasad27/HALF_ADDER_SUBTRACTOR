@@ -89,6 +89,8 @@ Developed by:D.R.Guru Prasad RegisterNumber:*/25015296
 <img width="1021" height="853" alt="image" src="https://github.com/user-attachments/assets/c6312327-e87c-4e78-8af9-c88d7ee52dd2" />
 
 **Output/TIMING Waveform**
+
+
 **Half Adder:**
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/2f949974-e5b9-42b6-b63a-1746f22cf691" />
 
